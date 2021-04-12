@@ -64,6 +64,10 @@ header .header-left .content-left li{
     margin-right: 50px;
 }
 
+header .header-left .content-left li:first-child{
+    margin-left: 30px;
+}
+
 /* HEADER RIGHT */
 
 header .header-right .list-item .item{
